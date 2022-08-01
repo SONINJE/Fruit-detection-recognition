@@ -1,4 +1,4 @@
-YOLO를 이용한 Fruit-detection-recognition 
+YOLO v3를 이용한 Fruit-detection-recognition 
 ==========
 Fruit-detection-recognition 
 
