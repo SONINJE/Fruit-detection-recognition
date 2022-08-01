@@ -4,4 +4,4 @@ Fruit-detection-recognition
 
 Image
  -------------
-![Fruit](https://storage.googleapis.com/kaggle-datasets-images/34662/46346/f97788c54875ffad6b7bc41ae52a46b0/dataset-cover.jpg)
+![dataset-cover](https://user-images.githubusercontent.com/106592497/182137506-afbc86bd-6bbd-4e42-937a-df030fa90da8.jpg))
