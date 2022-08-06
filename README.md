@@ -9,3 +9,7 @@ Image
 dataset
  -----------------
  [KAGGLE 링크](https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detectionhttp://www.deepedu.ai/)
+
+YOLO v3 weight 
+ -------------
+ [weight Download](https://velog.io/@jeongm/yolov3-weight%EA%B0%80%EC%A4%91%EC%B9%98-%EB%8B%A4%EC%9A%B4)
