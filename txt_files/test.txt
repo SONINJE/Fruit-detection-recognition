@@ -1,0 +1,60 @@
+/content/drive/MyDrive/fruit/test/apple_77.jpg 71,60,175,164,0 12,22,105,111,0 134,23,243,115,0 107,126,216,229,0 207,138,298,229,0
+/content/drive/MyDrive/fruit/test/apple_79.jpg 77,183,641,716,0
+/content/drive/MyDrive/fruit/test/apple_86.jpg 112,144,173,211,0 250,140,322,215,0
+/content/drive/MyDrive/fruit/test/apple_84.jpg 64,84,484,457,0 550,44,850,356,0 197,1,559,273,0
+/content/drive/MyDrive/fruit/test/banana_78.jpg 162,50,310,354,1 81,16,220,348,1
+/content/drive/MyDrive/fruit/test/apple_90.jpg 58,124,1776,1910,0
+/content/drive/MyDrive/fruit/test/apple_81.jpg 70,398,1388,1731,0
+/content/drive/MyDrive/fruit/test/apple_91.jpg 227,62,723,500,0
+/content/drive/MyDrive/fruit/test/apple_92.jpg 77,74,540,518,0
+/content/drive/MyDrive/fruit/test/apple_94.jpg 123,110,414,427,0 338,1,638,242,0
+/content/drive/MyDrive/fruit/test/apple_78.jpg 10,8,344,336,0
+/content/drive/MyDrive/fruit/test/banana_81.jpg 25,135,663,543,1 86,92,736,385,1
+/content/drive/MyDrive/fruit/test/apple_95.jpg 219,494,946,1173,0 930,598,1667,1174,0 78,323,744,945,0 1228,312,1896,916,0
+/content/drive/MyDrive/fruit/test/apple_89.jpg 19,68,278,343,0
+/content/drive/MyDrive/fruit/test/apple_80.jpg 155,105,453,436,0
+/content/drive/MyDrive/fruit/test/banana_80.jpg 44,164,369,277,1 87,220,401,355,1
+/content/drive/MyDrive/fruit/test/apple_87.jpg 43,134,358,455,0
+/content/drive/MyDrive/fruit/test/apple_93.jpg 143,40,415,346,0
+/content/drive/MyDrive/fruit/test/apple_83.jpg 1,1,794,738,0
+/content/drive/MyDrive/fruit/test/banana_82.jpg 133,165,922,525,1
+/content/drive/MyDrive/fruit/test/apple_85.jpg 88,41,415,393,0
+/content/drive/MyDrive/fruit/test/apple_82.jpg 65,122,365,404,0
+/content/drive/MyDrive/fruit/test/apple_88.jpg 242,460,963,1229,0
+/content/drive/MyDrive/fruit/test/banana_79.jpg 45,228,1232,658,1
+/content/drive/MyDrive/fruit/test/banana_77.jpg 29,11,246,348,1
+/content/drive/MyDrive/fruit/test/banana_83.jpg 63,17,560,323,1
+/content/drive/MyDrive/fruit/test/mixed_23.jpg 146,205,493,594,2 252,528,571,821,0 468,49,1228,287,1 540,208,1244,464,1 506,301,1279,574,1
+/content/drive/MyDrive/fruit/test/banana_91.jpg 114,114,324,431,1 23,56,170,422,1
+/content/drive/MyDrive/fruit/test/banana_90.jpg 122,127,484,471,1 212,115,691,407,1 238,77,743,294,1
+/content/drive/MyDrive/fruit/test/banana_94.jpg 1,4,348,309,1
+/content/drive/MyDrive/fruit/test/banana_88.jpg 203,115,584,452,1
+/content/drive/MyDrive/fruit/test/orange_77.jpg 1,123,130,299,2 379,1,558,144,2
+/content/drive/MyDrive/fruit/test/banana_92.jpg 5,12,333,353,1
+/content/drive/MyDrive/fruit/test/mixed_21.jpg 133,246,337,434,2 270,364,400,476,2 522,344,649,470,2 537,302,661,402,2 328,229,544,422,0
+/content/drive/MyDrive/fruit/test/orange_79.jpg 17,195,202,356,2 200,207,376,365,2 223,52,389,217,2 261,157,412,264,2
+/content/drive/MyDrive/fruit/test/banana_93.jpg 100,64,381,190,1 95,280,380,405,1
+/content/drive/MyDrive/fruit/test/mixed_25.jpg 228,83,401,270,2 43,74,183,244,1 128,56,282,221,0
+/content/drive/MyDrive/fruit/test/banana_86.jpg 313,228,935,1864,1 401,129,1078,1890,1 135,291,642,1747,1
+/content/drive/MyDrive/fruit/test/banana_85.jpg 419,297,2602,1034,1
+/content/drive/MyDrive/fruit/test/orange_78.jpg 279,14,562,295,2
+/content/drive/MyDrive/fruit/test/mixed_24.jpg 113,36,276,182,0 280,83,452,255,1 188,77,412,217,1 172,78,395,176,1
+/content/drive/MyDrive/fruit/test/mixed_22.jpg 1,571,923,1006,1 80,6,481,395,0 543,17,942,430,2
+/content/drive/MyDrive/fruit/test/banana_84.jpg 85,138,553,352,1
+/content/drive/MyDrive/fruit/test/banana_89.jpg 23,472,848,880,1 66,233,878,657,1 212,111,949,611,1
+/content/drive/MyDrive/fruit/test/banana_87.jpg 383,3,596,308,1 265,15,513,276,1 516,52,762,315,1 639,42,819,325,1
+/content/drive/MyDrive/fruit/test/orange_80.jpg 150,165,923,983,2
+/content/drive/MyDrive/fruit/test/orange_86.jpg 165,163,367,336,2 1,100,189,266,2 167,88,329,237,2
+/content/drive/MyDrive/fruit/test/orange_81.jpg 90,287,608,809,2 560,217,1145,769,2 323,37,786,551,2
+/content/drive/MyDrive/fruit/test/orange_89.jpg 99,96,532,592,2 652,196,1123,710,2 430,108,776,525,2
+/content/drive/MyDrive/fruit/test/orange_87.jpg 21,216,173,371,2 108,160,244,310,2 263,166,415,307,2
+/content/drive/MyDrive/fruit/test/orange_94.jpg 111,51,372,277,2
+/content/drive/MyDrive/fruit/test/orange_92.jpg 174,20,364,199,2
+/content/drive/MyDrive/fruit/test/orange_83.jpg 75,62,711,745,2
+/content/drive/MyDrive/fruit/test/orange_93.jpg 43,57,143,160,2 148,62,249,162,2
+/content/drive/MyDrive/fruit/test/orange_90.jpg 42,41,193,182,2 158,1,299,109,2 284,17,355,147,2 1,15,61,138,2 34,1,172,85,2
+/content/drive/MyDrive/fruit/test/orange_85.jpg 48,234,593,789,2
+/content/drive/MyDrive/fruit/test/orange_95.jpg 146,361,1112,1254,2
+/content/drive/MyDrive/fruit/test/orange_91.jpg 166,92,638,559,2
+/content/drive/MyDrive/fruit/test/orange_84.jpg 145,36,421,286,2
+/content/drive/MyDrive/fruit/test/orange_82.jpg 61,130,415,473,2
